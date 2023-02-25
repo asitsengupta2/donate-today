@@ -153,3 +153,24 @@ body {
     padding: 10px 20px;
     border-radius: 10px;
 }
+
+.updates {
+    text-align: center;
+}
+
+.last {
+    background-color: black;
+    padding: 40px;
+
+}
+
+.last h1 {
+    color: tomato;
+    text-align: center;
+
+}
+
+.last h6 {
+    color: white;
+    text-align: center;
+}
