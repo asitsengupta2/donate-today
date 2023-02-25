@@ -1,0 +1,50 @@
+body {
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+
+.home {
+    position: relative;
+    max-width: 100%;
+}
+
+.cover-img {
+    width: 100%;
+
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: bold;
+    width: 50%;
+    text-align: center;
+}
+
+.banner {
+    align-items: center;
+    top: 20%;
+    position: absolute;
+    color: white;
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+p {
+    width: 40%;
+    text-align: center;
+}
+
+.button {
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 25px;
+    color: white;
+    font-size: 25px;
+    border-radius: 10px;
+}
+
+/* topic first finsh */
